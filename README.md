@@ -13,7 +13,7 @@ passionate about building clean, reliable software. I'm currently focused on
 programming, databases, and computer systems.
 
 ## 🎓 Education
-**B.Sc. in Computer Engineering** — Islamic University of Gaza (graduated: YEAR)
+**B.Sc. in Computer Engineering** — Islamic University of Gaza
 
 ## 🧠 Engineering Foundations
 Core knowledge from my degree that shapes how I write software:
